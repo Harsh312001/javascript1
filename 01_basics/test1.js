@@ -21,6 +21,6 @@ console.log("harsh")
 //when we convert a a;phabet into number we cant onvet and ans is Nan not a number 
 //true =1 and else false =0
 
-let islogeed="";
-let data=Boolean(islogeed)
-console.log(data)
+//let islogeed="";
+//let data=Boolean(islogeed)
+//console.log(data)
